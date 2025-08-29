@@ -1,0 +1,12 @@
+{
+  "name": "rewards-program",
+  "version": "1.0.0",
+  "description": "Retailer rewards program assignment (JavaScript, async API simulation, no Redux).",
+  "main": "rewards.js",
+  "scripts": {
+    "start": "node rewards.js"
+  },
+  "keywords": ["rewards", "javascript", "async", "assignment"],
+  "author": "Your Name",
+  "license": "MIT"
+}
